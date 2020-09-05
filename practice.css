@@ -1,0 +1,21 @@
+.center{
+margin: auto;
+border: 0px;
+width: 500px;
+    
+}
+.sticky{
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    padding: 5px;
+    background-color: #cae8ca;
+    border: 2px solid #4CAF50;
+
+}
+footer{
+    bottom: 2px;
+    position: fixed;
+    background-color: royalblue;
+    color: white;
+}
